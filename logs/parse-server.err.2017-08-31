@@ -1,0 +1,4 @@
+{"error":{"code":200,"message":"bad or missing username"},"level":"error","message":"Error generating response. ParseError { code: 200, message: 'bad or missing username' }","timestamp":"2017-08-31T10:26:52.498Z"}
+{"code":200,"message":"bad or missing username","level":"error","timestamp":"2017-08-31T10:26:52.503Z"}
+{"error":{"code":200,"message":"bad or missing username"},"level":"error","message":"Error generating response. ParseError { code: 200, message: 'bad or missing username' }","timestamp":"2017-08-31T10:27:43.665Z"}
+{"code":200,"message":"bad or missing username","level":"error","timestamp":"2017-08-31T10:27:43.666Z"}

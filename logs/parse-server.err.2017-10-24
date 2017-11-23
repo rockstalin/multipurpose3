@@ -1,0 +1,12 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2017-10-24T09:31:58.880Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2017-10-24T09:31:58.884Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2017-10-24T13:58:37.984Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2017-10-24T13:58:37.987Z"}
+{"functionName":"app","error":{"code":141,"message":{"code":101,"message":"Object not found."}},"params":{"adminId":"AryBdZGnIH"},"level":"error","message":"Failed running cloud function app for user undefined with:\n  Input: {\"adminId\":\"AryBdZGnIH\"}\n  Error: {\"code\":141,\"message\":{\"code\":101,\"message\":\"Object not found.\"}}","timestamp":"2017-10-24T13:58:37.990Z"}
+{"error":{"code":141,"message":{"code":101,"message":"Object not found."}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: ParseError { code: 101, message: 'Object not found.' } }","timestamp":"2017-10-24T13:58:37.990Z"}
+{"code":141,"message":"ParseError { code: 101, message: 'Object not found.' }","level":"error","timestamp":"2017-10-24T13:58:37.991Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2017-10-24T14:00:37.964Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2017-10-24T14:00:37.966Z"}
+{"functionName":"app","error":{"code":141,"message":{"code":101,"message":"Object not found."}},"params":{"adminId":"AryBdZGnIH"},"level":"error","message":"Failed running cloud function app for user undefined with:\n  Input: {\"adminId\":\"AryBdZGnIH\"}\n  Error: {\"code\":141,\"message\":{\"code\":101,\"message\":\"Object not found.\"}}","timestamp":"2017-10-24T14:00:37.968Z"}
+{"error":{"code":141,"message":{"code":101,"message":"Object not found."}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: ParseError { code: 101, message: 'Object not found.' } }","timestamp":"2017-10-24T14:00:37.968Z"}
+{"code":141,"message":"ParseError { code: 101, message: 'Object not found.' }","level":"error","timestamp":"2017-10-24T14:00:37.969Z"}

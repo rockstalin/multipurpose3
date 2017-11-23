@@ -1,0 +1,1 @@
+{"functionName":"addDefaultAdmin","params":{},"level":"info","message":"Ran cloud function addDefaultAdmin for user undefined with:\n  Input: {}\n  Result: \"already added!!\"","timestamp":"2017-08-30T10:33:05.425Z"}

@@ -1,0 +1,12 @@
+[
+  {
+    "bundleId": "com.k7computing.virussecurity",
+    "pfx": "DistCertificates_20171030_101610_20171030_112241.p12",
+    "production": true
+  },
+  {
+    "bundleId": "com.k7computing.virussecurity",
+    "pfx": "DevCertificates_20171030_101610_20171030_112241.p12",
+    "production": false
+  }
+]

@@ -1,0 +1,7 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2017-10-23T12:17:39.902Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2017-10-23T12:17:39.903Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2017-10-23T12:23:27.428Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2017-10-23T12:23:27.430Z"}
+{"functionName":"app","error":{"code":141,"message":{"code":101,"message":"Object not found."}},"params":{"adminId":"s6vPS3V3JP"},"level":"error","message":"Failed running cloud function app for user undefined with:\n  Input: {\"adminId\":\"s6vPS3V3JP\"}\n  Error: {\"code\":141,\"message\":{\"code\":101,\"message\":\"Object not found.\"}}","timestamp":"2017-10-23T12:23:27.432Z"}
+{"error":{"code":141,"message":{"code":101,"message":"Object not found."}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: ParseError { code: 101, message: 'Object not found.' } }","timestamp":"2017-10-23T12:23:27.433Z"}
+{"code":141,"message":"ParseError { code: 101, message: 'Object not found.' }","level":"error","timestamp":"2017-10-23T12:23:27.434Z"}
